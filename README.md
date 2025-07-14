@@ -18,3 +18,6 @@ MENTOR: NELLA SANTOSH
  CONTROLS
 
 # OUTPUT OF TASK:
+
+<img width="1920" height="864" alt="Image" src="https://github.com/user-attachments/assets/d42e47a3-95fb-4bf2-9e60-9fa81b6150b4" />
+<img width="1920" height="1025" alt="Image" src="https://github.com/user-attachments/assets/aed5719c-7487-4b5e-9eb7-50bd1939d7c7" />
